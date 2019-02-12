@@ -1,0 +1,32 @@
+h1, h2{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+body{
+  background-color: aqua;
+}
+
+
+
+/* li {
+  padding: 5px;
+  margin: 5px;
+  background: red;
+  
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+} */

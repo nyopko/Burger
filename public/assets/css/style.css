@@ -2,31 +2,17 @@ h1, h2{
   margin-top: 2%;
   margin-bottom: 2%;
   text-align: center;
+  color: white;
+ 
 }
 
 body{
-  background-color: aqua;
+  background-image: url("https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1250&w=1000");
+  background-size: cover;
 }
 
-
-
-/* li {
-  padding: 5px;
-  margin: 5px;
-  background: red;
-  
+.card{
+  margin-bottom: 2%;
+  background-color: wheat;
+  opacity: 0.9;
 }
-
-.label {
-  font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
-.form-group {
-  margin-bottom: 5px;
-} */
